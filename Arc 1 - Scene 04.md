@@ -1,3 +1,5 @@
+# Out in the Wild
+
 The dark maw of the service tunnel offered no comfort, only an escape from the silent, unresponsive pod that had become a cage. For how long Kael stared into that blackness, weighing the known prison against the terrifying unknown, they couldn’t say. The relentless red pulse of the **INSUFFICIENT CREDITS** message on the main screen was a constant goad. Remaining meant slow starvation, a descent into madness within pristine walls. The tunnel, at least, was a choice. An act.
 
 Driven by a primal desperation that overrode years of conditioned passivity, Kael dropped to their hands and knees. The cool, stale air from the passage washed over them, carrying the scent of decay and disuse. They crawled forward, the opening surprisingly tight. The surface beneath was rough, unpolished metal, scraping against their soft clothes, their uncalloused skin.

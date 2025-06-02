@@ -1,10 +1,12 @@
+# Dragged to Dirt
+
 A sensation of being dragged, a rough scraping against their back, was the first thing to penetrate Kael’s exhausted unconsciousness. Vague, disjointed images flickered behind their eyelids: the skeletal trees, the mocking, broken solar light, the crushing weight of a world they didn’t understand. Then, nothing but a deeper blackness, though less absolute than the service tunnel.
 
 When awareness returned, it was to a dull ache throbbing through every limb and a profound stiffness in their neck. Kael lay on something coarse and unyielding – a mat of woven fibers, perhaps? The air tasted of woodsmoke, damp earth, and something else, faintly herbal. It was a far cry from the sterile, filtered air of the pod.
 
 Kael’s eyes fluttered open. Above, rough-hewn wooden beams – actual tree trunks, bark partially intact – formed a low ceiling. The walls, too, were made of dark, unfinished logs, chinked imperfectly with what looked like dried mud or clay. Dust motes danced in the slivers of grey light filtering through a single, small window, which was covered with a stretched, translucent, yellowish material that was clearly not glass. The whole structure felt… assembled, not manufactured. This was no medical bay, no recovery suite. This was primitive. Hand-built. Raw.
 
-A figure moved in the periphery. Kael tensed, a jolt of adrenaline trying to override the profound weakness. They tried to sit up, but a wave of dizziness and a chorus of protesting muscles forced them back down with a groan.
+A figure moved in the periphery. Kael tensed, a jolt of adrenaline trying to override প্রfound weakness. They tried to sit up, but a wave of dizziness and a chorus of protesting muscles forced them back down with a groan.
 
 “Easy now,” a voice said. Blunt, female, with a rough edge that vibrated with a resonance Kael had never encountered in the smooth, synthesized tones of the arcology. “You were half-dead when I found you. Don’t finish the job.”
 

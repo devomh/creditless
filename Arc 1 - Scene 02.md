@@ -1,3 +1,5 @@
+# Insufficient Credits
+
 The transition from personal time to the evening cycle was usually as seamless as every other part of Kael’s day. A soft chime, a subtle shift in the pod’s lighting towards warmer, more relaxing hues. Kael was halfway through selecting a historical documentary – a curated choice offered by the AI concierge based on their previous viewing patterns – when the screen abruptly went black.
 
 Not a gentle fade, but a sudden, stark void.

@@ -1,3 +1,5 @@
+# No Exit
+
 The initial panic began to curdle into a grim, frantic determination. Kael would not simply succumb to this silent siege. There were always fail-safes, redundancies built into the arcology’s systems. They just had to find them.
 
 “Voiceprint identification: Kael, Resident ID 734-Alpha-Omega-9,” Kael enunciated clearly, speaking to the inert primary display. This was a deep-level protocol, designed to bypass standard interface issues. “Emergency override, command sequence Epsilon-Nine.”
