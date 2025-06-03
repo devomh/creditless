@@ -1,3 +1,5 @@
+# Reingreso
+
 ## Escena 13: Reingreso
 
 La transición: fluida, violenta. Un momento, aromas persistentes de pino, tierra húmeda, humo de leña en la ropa de Kael; al siguiente, el aire estéril, reciclado y con tinte de ozono de la estación de entrada de la arcología golpeó sus pulmones como un limpiador químico. Una puerta se cerró con un silbido —sonido que Kael no se había dado cuenta de que había olvidado— su precisión neumática sellando algo más que el mundo exterior. Una línea vital cortada. El coro vibrante y caótico del Off-Grid, reemplazado por un repentino y ensordecedor zumbido de maquinaria.

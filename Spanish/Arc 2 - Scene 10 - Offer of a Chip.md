@@ -1,3 +1,5 @@
+# Ofrecimiento de una Ficha
+
 Una rara noche de abundancia. Caza exitosa, buena recolección: las cestas rebosaban de raíces terrosas, bayas de fin de temporada. La comida comunal, más sustanciosa de lo habitual; aromas de carne asada, estofado sabroso y humo de leña llenaban el aire fresco del otoño. Un bajo murmullo de conversación, risas compartidas ocasionales, zumbaba alrededor del fuego central. La gente comía, rostros rojizos, relajados bajo su cálido resplandor. Kael, todavía un extraño pero cada vez más familiar —aunque a menudo torpe— observaba, picoteando su estofado.
 
 Las reuniones después de la comida a menudo servían como trueque informal. Botas remendadas por bayas en conserva o sal de roca. Cucharas talladas por resistente cuerda de fibra vegetal. Hierbas secas por una afilada cabeza de hacha de pedernal. El valor aquí: tangible, ligado a la necesidad, el esfuerzo, la artesanía. Sin etiquetas de precio, sin libros de contabilidad digitales; solo negociación tranquila, respeto mutuo por la habilidad.

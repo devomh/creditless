@@ -1,3 +1,5 @@
+# Bitácora para los Olvidados
+
 ## Bitácora: Un Sabático No Programado (Kael Vayne)
 
 **Fecha del Sistema:** 887.5.12 (Según la terminal.)

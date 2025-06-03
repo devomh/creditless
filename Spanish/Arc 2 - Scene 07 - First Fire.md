@@ -1,3 +1,5 @@
+# Primer Fuego
+
 El sol sin filtrar golpeaba el cuello de Kael con un calor opresivo. El sudor, una sensación novedosa para alguien acostumbrado a los ambi-trajes climatizados, goteaba, haciendo que la camisa prestada se les pegara. Ante ellos: un trozo de tierra despejado, un montón desordenado de ramitas dispares que Kael había recogido a regañadientes, y un pedernal y acero —herramientas extrañas y brutales en sus manos delicadas de piel sintética.
 
 “Un fuego para cocinar”, había gruñido antes la Ingeniera Asilvestrada, con voz como de rocas moliéndose. Intimidado por su presencia intransigente, Kael no le había preguntado su nombre. La mayoría aquí eran simplemente ‘Ingeniera’, ‘Recolector’, ‘Sanador’ —títulos de utilidad. Kael era, dolorosamente claro, ‘Inútil’. O ‘Urbanita’, pronunciado con un leve movimiento de cabeza compasivo.

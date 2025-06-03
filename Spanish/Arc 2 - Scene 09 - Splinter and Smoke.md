@@ -1,3 +1,5 @@
+# Astilla y Humo
+
 La convocatoria llegó después de un magro desayuno de gachas, aguadas y arenosas. Tam, un joven Off-Grid de manos manchadas de tierra y ojos curiosos, encontró a Kael. “La Ingeniera te necesita. Plataforma de agua, sección tres. La tubería principal pierde otra vez. Grave.”
 
 El estómago de Kael se encogió. Otra oportunidad para demostrar su incompetencia. La plataforma de agua —una improvisada línea vital de tuberías recuperadas y filtros reutilizados— canalizaba agua de manantial a la comunidad. Una fuga grave era una amenaza genuina.

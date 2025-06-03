@@ -1,3 +1,5 @@
+# ¿Es esto un castigo?
+
 ## Bitácora Personal 001 (Si alguien alguna vez ve esto—dudoso.)
 
 **Fecha Est.:** 887.3.15 (El crono está muerto. Tres días desde la desconexión.)

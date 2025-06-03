@@ -1,3 +1,5 @@
+# Una Pequeña Señal
+
 ## Escena 15: Una Pequeña Señal
 
 La bitácora de Kael, “Notas de un Sabático No Programado,” se deslizó en el océano de datos como una única semilla, casi invisible, en un río caudaloso y artificial. No fue marcada como incendiaria por los algoritmos de contenido, ni priorizada para la difusión viral por las métricas de interacción. Simplemente *era*: un diminuto paquete de pensamiento anómalo en un universo de información estructurada. Sin embargo, las corrientes se mueven misteriosamente, incluso a través de redes meticulosamente cuadriculadas. Y las semillas, a veces, encuentran tierra fértil.

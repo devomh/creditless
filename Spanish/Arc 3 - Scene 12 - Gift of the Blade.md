@@ -1,3 +1,5 @@
+# Regalo de la Hoja
+
 ## Escena 12: El Don de la Hoja
 
 El aroma a humo de leña y tierra húmeda, usualmente un consuelo, ahora se adhería a Kael como una segunda piel a punto de ser mudada, un perfume agridulce de una vida dejada atrás. Su escasa mochila —despojada de inútil tecnología de la arcología, conteniendo ahora esenciales como un odre de agua, raciones secas, el palo carbonizado para escribir— yacía junto a la entrada de la yurta comunal. Cada objeto, elegido con nueva deliberación, afirmaba la necesidad sobre el deseo, el propósito sobre la posesión. Partir se sentía menos una huida que la atracción de una corriente, inevitable, fuerte, pero teñida de una sorprendente renuencia.
