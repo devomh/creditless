@@ -1,56 +1,56 @@
-The summons came just after the meager morning meal – a thin, gritty porridge Kael was still struggling to acquire a taste for, let alone identify. One of the younger Off-Gridders, a boy named Tam with perpetually dirt-stained hands and bright, curious eyes, approached Kael. “Engineer needs you. Water rig, section three. Main conduit’s leaking again. Bad this time.”
+The summons came after a meager breakfast porridge, thin and gritty. Tam, a young Off-Gridder with dirt-stained hands and curious eyes, found Kael. “Engineer needs you. Water rig, section three. Main conduit’s leaking again. Bad.”
 
-Kael’s stomach tightened. Another opportunity to demonstrate their incompetence, or worse, be subjected to more back-breaking, unfamiliar labor. The water rig, Kael had gathered, was a lifeline for the community, a complex, jury-rigged network of salvaged pipes, repurposed filters, and crude but functional valves, channeling water from an upland spring. A leak wasn’t just an inconvenience; it was a threat to their precarious existence.
+Kael’s stomach tightened. Another chance to prove their incompetence. The water rig—a jury-rigged lifeline of salvaged pipes and repurposed filters—channeled spring water to the community. A bad leak was a genuine threat.
 
-When Kael arrived, the Rewilded Engineer was already there, her expression as grim as the grey, overcast sky. Water sprayed erratically from a rusted, bulging joint in a large, corrosion-pocked pipe – clearly a main conduit – gushing out with each pulse from the distant pump. Muddy water pooled around their feet, and the hissing sound of the escaping water was loud and urgent. Two other Off-Gridders, their faces strained and glistening with sweat, were struggling to tighten a makeshift clamp around the rupture, their efforts only seeming to make the spray angrier, wider.
+At the rig, the Engineer’s expression matched the grim, overcast sky. Water sprayed erratically from a rusted, bulging joint in a large, corrosion-pocked main conduit, gushing with each pulse from the distant pump. Muddy water pooled. The hiss of escaping water, loud, urgent. Two Off-Gridders, faces strained, glistening with sweat, wrestled a makeshift clamp around the rupture, their efforts only making the spray angrier.
 
-“You,” the Engineer barked, not looking at Kael but gesturing sharply with her chin towards the chaotic scene. “City brain. Stand there and look useless, or see if that expensive education of yours can conjure something beyond complaining about the mud.”
+“You,” the Engineer barked, not looking at Kael, merely gesturing with her chin. “City brain. Look useless, or see if that expensive education can conjure something besides complaining about mud.”
 
-The sarcasm wasn’t unexpected, but it still stung, a familiar prickle of shame and inadequacy. Kael approached cautiously, the hissing water and the grunts of exertion a stark contrast to the quiet, sterile efficiency of the arcology’s automated maintenance systems. The Off-Gridders were trying to apply brute force, their muscles straining against the pressure as they wrestled with the clamp’s crude lever. Kael watched the way the water pulsed from the split, the way the aged metal around the rupture seemed to bulge slightly, sickeningly, just before each new jet. It was clear the pipe was on the verge of a complete burst.
+The sarcasm stung, a familiar prickle of shame. Kael approached cautiously. Hissing water, grunts of exertion—a world away from the arcology’s sterile, automated maintenance. These Off-Gridders used brute force, muscles straining against the clamp’s crude lever. Kael watched water pulse from the split, saw aged metal around the rupture bulge sickeningly with each jet. The pipe neared bursting.
 
-An image surfaced in Kael’s mind, unbidden, fragmented. It was from an old engineering simulation, one of their earliest training modules: ‘Fluid Dynamics under Duress – Pre-Network Era Failsafes.’ It had been a theoretical exercise, a historical curiosity about how ancient civilizations dealt with infrastructure failures without smart materials or nanite repair swarms. They’d almost dismissed it then as irrelevant. Now, the core principle resonated with startling clarity.
+An image surfaced: an old engineering simulation, ‘Fluid Dynamics under Duress – Pre-Network Era Failsafes.’ Theoretical then, a historical curiosity about infrastructure failures without smart materials or nanite repair. Almost dismissed as irrelevant. Now, its core principle resonated with startling clarity.
 
-“Wait,” Kael said, surprised at the steadiness of their own voice, cutting through the hisses and grunts. The two wrestling with the clamp paused, their chests heaving, looking at Kael with a mixture of suspicion and desperation. Even the Engineer turned her head slightly, her expression skeptical.
+“Wait.” Kael’s voice, surprisingly steady, cut through the hisses and grunts. The two with the clamp paused, chests heaving, eyeing Kael with mixed suspicion and desperation. The Engineer turned her head slightly, skeptical.
 
-“The pressure… it’s too direct at the rupture point,” Kael explained, pointing a hesitant, trembling finger. “You’re fighting the main vector of the leak. See how the pipe bulges there, just before the split? The stress concentration is highest at that point. If you could create a counter-pressure point, a sort of temporary reinforcement *before* the main rupture, it might redistribute the stress along the pipe wall, reduce the bulging, and allow the clamp to seal the actual split.”
+“Direct pressure at the rupture is worsening it,” Kael explained, pointing a hesitant finger. “The pipe bulges just before the split—stress concentration. A counter-pressure point *before* the rupture might redistribute stress, reduce bulging, let the clamp seal the split.”
 
-Blank stares from the two Off-Gridders. Kael sighed internally. They didn’t have the language of the Off-Grid, the practical, hands-on vocabulary. They had theory, couched in terms that meant nothing here. How to translate?
+Blank stares. Kael sighed internally. No shared language for this. Theory, not hands-on vocabulary. How to translate?
 
-“Here,” Kael said, stepping forward, a sudden, uncharacteristic surge of resolve pushing past their usual hesitation. They spotted a shorter, discarded piece of thick-walled pipe lying nearby and a sturdy, angled wedge of wood, probably used for splitting logs. “If we can wedge this piece of pipe against the conduit, just here”—they indicated a spot about a hand’s breadth *before* the leak, on the side opposite the main bulge—“and use this wedge to hammer it tight, like a splint, it might act as a pressure girdle. It could lessen the outward force at the rupture itself, stop it from expanding further.”
+“Here.” A sudden, uncharacteristic resolve. Kael spotted a discarded thick-walled pipe segment, a sturdy wood wedge. “Wedge this pipe segment against the conduit here”—indicating a spot a hand’s breadth before the leak, opposite the bulge—“hammer it tight, like a splint. A pressure girdle. It could lessen the outward force, stop the expansion.”
 
-The Engineer watched, arms crossed, her expression unreadable, but she didn’t object. The other two looked hesitant but, clearly exhausted and out of ideas, stepped back, allowing Kael to try.
+The Engineer watched, arms crossed, unreadable, but didn’t object. The others, exhausted and out of ideas, stepped back.
 
-It was awkward. The metal pipe segment was heavy and slick with mud. The ground was a mire. Kael’s fingers, more accustomed to the delicate haptics of holographic interfaces, fumbled with the rough materials. Their synth-fabric clothes, already torn, offered little purchase. But the logic of the simulation, the simple physics of stress distribution, felt undeniably correct. They positioned the wedge against the conduit, then, bracing the segment of pipe against it, used a heavy, flat stone they found nearby to carefully, yet forcefully, hammer the makeshift splint into place. Each strike sent a jarring shock up their arm. The pipe segment bit into the wood, groaning in protest, and pressed hard against the conduit.
+Awkward. The pipe segment, heavy, slick with mud. The ground, a mire. Kael’s fingers, used to holographic haptics, fumbled with rough materials. Torn synth-fabric offered little grip. But the simulation’s logic—simple physics of stress distribution—felt undeniably correct. They positioned the wedge, braced the pipe segment, then used a heavy, flat stone to hammer the makeshift splint into place. Each strike, a jarring shock up their arm. The segment bit into wood, groaning, pressed hard against the conduit.
 
-Miraculously, the dangerous bulging near the leak visibly lessened. The wild, wide spray from the rupture narrowed, becoming a more manageable, steady stream. The hissing sound diminished.
+Miraculously, the dangerous bulge lessened. The wild spray narrowed to a manageable, steady stream. Hissing diminished.
 
-“Now try the clamp,” Kael urged, stepping back, heart pounding with a mixture of exertion and trepidation.
+“Now, the clamp,” Kael urged, stepping back, heart pounding—exertion and trepidation.
 
-The two Off-Gridders, with a shared, surprised glance, reapplied their clamp to the now less stressed rupture. This time, with the counter-pressure in place, the clamp’s pads bit firmly into the metal. They tightened the lever. The hissing lessened further, then sputtered, then stopped. A few drips, then silence, save for the reassuring gurgle of water flowing *through* the pipe, contained.
+The two Off-Gridders, sharing a surprised glance, reapplied their clamp to the less-stressed rupture. It bit firmly. They tightened the lever. Hissing sputtered, stopped. A few drips. Then, only the reassuring gurgle of contained water.
 
-A collective sigh of relief went through the small group. Tam, who had been watching with wide eyes, grinned at Kael. The two who’d fixed the clamp nodded, a grudging but genuine respect in their eyes. One of them even muttered, “Huh. City brain ain’t so useless after all.”
+Relief. Tam grinned. The two who’d fixed the clamp nodded, grudging respect in their eyes. One muttered, “Huh. City brain ain’t so useless.”
 
-Kael felt a flush creep up their neck, but this time it wasn’t entirely from shame. They looked at the Rewilded Engineer. She was still watching them, her expression unchanged for a long moment. Then, almost imperceptibly, her head moved in a single, sharp nod. Just a nod.
+A flush Kael didn’t entirely attribute to shame. They looked at the Engineer. She watched them, expression unchanged. Then, almost imperceptibly, a single, sharp nod. Just a nod.
 
-It wasn’t praise, not by arcology standards where commendations were verbose and digitally logged. It was a mere acknowledgment. A recognition of utility. But for Kael, after days of failure and humiliation, that infinitesimally small gesture felt like a torrent of applause. It was a spark. A possibility.
+Not praise by arcology standards—no verbose, digitally logged commendations. Mere acknowledgment. Utility recognized. But for Kael, after days of failure, that infinitesimal gesture felt like a torrent of applause. A spark. A possibility.
 
 ---
 
-## Log Entry 003 (Still using the charred stick method)
+## Log 003 (Charred stick on bark)
 
-**System Date Estimate:** 887.3.18 (I think. Days blur.)
-**Author:** Kael
-**Location:** My Corner of the Sleeping Barracks. It smells of damp wool and something vaguely like old cheese.
+**Est. Date:** 887.3.18 (Days blur.)
+**Kael.**
+**Location:** Barracks corner (damp wool & old cheese smell).
 
-The datapad is still inert, a useless brick. But I find myself wanting to record this anyway, even if it’s just for me, scratched onto this piece of preserved bark with a charred stick – another ‘borrowed’ technology from these… resourceful people.
+Datapad dead. Recording this way. For me.
 
-I didn’t fail today. That feels… strange to write.
+Didn’t fail today. Strange to write.
 
-There was a leak in the water rig. A bad one, the main conduit. They were trying to force it, but the pressure was too high at the rupture. I remembered a simulation – fluid dynamics, stress vectors. Archaic stuff, really, from a module on pre-Network infrastructure. But the principle held. I showed them how to brace it, to redirect the stress using a counter-pressure splint. The clamp held. The water stopped spraying.
+Water rig leak, main conduit. Bad. They were forcing it; pressure too high at the rupture. Remembered a sim—fluid dynamics, stress vectors. Archaic. Pre-Network. But the principle held. Showed them how to brace it, redirect stress with a counter-pressure splint. Clamp held. Water stopped.
 
-The Engineer… she nodded. Just a nod. But it was enough. For today, it was more than enough.
+Engineer nodded. Just a nod. Enough. More than enough, for today.
 
-My hands are scraped raw from the rough pipe and the stone I used as a hammer. I have mud in places I didn’t know mud could reach. I’m exhausted in a way that’s different from the data-stream fatigue of the arcology. This is a bone-deep weariness. But… I didn’t fail.
+Hands scraped raw—rough pipe, stone hammer. Mud everywhere. Exhausted—a bone-deep weariness, not arcology data-fatigue. But… didn’t fail.
 
-It’s a strange feeling. Almost like… satisfaction. Is this what it feels like to be useful? Not for accumulating credits, or generating positive performance metrics, or receiving algorithmic commendations… but for something real? Something that means people have water to drink?
-Strange. So very strange. And… not entirely unpleasant. End log.
+Satisfaction? Is this being useful? Not for credits, performance metrics, algorithmic praise… but for something real? Water to drink?
+Strange. Very strange. And… not entirely unpleasant. End.

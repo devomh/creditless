@@ -1,26 +1,28 @@
-## Personal Log 001 (If anyone ever even sees this)
+## Personal Log 001 (If anyone ever sees this—doubtful.)
 
-**System Date Estimate:** 887.3.15? The chrono on my datapad died with everything else. Three days since… the cutoff.
-**Author:** Kael, formerly Resident ID 734-Alpha-Omega-9, The Arcology of New Alexandria. Now… just Kael, apparently.
-**Location:** Some kind of primitive hut. Off-Grid Community. They call it ‘The Warren,’ I think I heard one say. Charming.
+**Est. Date:** 887.3.15 (Chrono’s dead. Three days since cutoff.)
+**Author:** Kael. (Formerly Resident ID 734-Alpha-Omega-9, Arcology New Alexandria. Now… just Kael. Apparently.)
+**Location:** Primitive hut. Off-Grid. ‘The Warren,’ they call it. Charming.
 
-This blanket they gave me is… coarse. Made of some kind of rough animal hair, I think. Not like the temperature-regulating synth-silk I’m used to. It scratches, but it’s warm, and the nights here are shockingly cold. Everything here is so aggressively, painfully real. My muscles ache in places I didn’t know existed, a deep, burning soreness that makes every movement a fresh insult. Yesterday, that woman – the ‘Engineer’ – made me help her ‘turn soil.’ Actual soil. With my hands. It was cold, and damp, and got under my fingernails. I think I managed about ten minutes before I nearly collapsed. Today, I can barely lift my arms. She probably thinks I’m completely useless. Maybe I am, in this world.
+Blanket: coarse. Animal hair? Scratches. Not my temperature-regulating synth-silk. But it’s warm; nights here are shockingly cold. Everything’s aggressively, painfully real. Muscles ache—places I didn’t know *were* muscles—deep, burning soreness. Every movement, a fresh insult. Yesterday, the ‘Engineer’ (that woman) made me ‘turn soil.’ Actual dirt. With my *hands*. Cold, damp, under my fingernails. Lasted ten minutes? Nearly collapsed. Arms useless today. She thinks I’m worthless. In this world, maybe I am.
 
-Through the open window – a real window, not a projection, with actual glass that feels cool and sometimes rattles, set in a wooden frame that has splinters – I see them. The Off-Gridders. They’re digging something, not with plasma shovels or autonomous excavators, but with crude tools of metal and wood. They’re repairing a wall made of… mud and logs? Their movements are practiced, economical, annoyingly synchronized. There are no floating schematics guiding them, no AI oversight. Just… knowledge. Stored in their heads, I suppose. How inefficient. How prone to error.
+Open window (real glass, cool, rattles; splintered wood frame, not a projection) shows… them. Off-Gridders. Digging. Not with plasma shovels or excav-drones. Crude metal and wood tools. Repairing a wall of mud and logs? Movements practiced, economical. Annoyingly synchronized. No floating schematics. No AI oversight. Just… knowledge. In their heads. How inefficient. Prone to error.
 
-And they laugh. It’s a strange sound, unfiltered by any audio enhancement, unprompted by a laugh track algorithm. It’s raw, like the wood of this bed frame I’m lying on. Sometimes it’s loud, booming. No screens flicker here, no data streams fill the air with their comforting glow. Just the thud of tools, the murmur of their voices in a dialect I barely understand, the rustle of leaves in a wind I can actually feel on my skin. It’s… disconcerting.
+They laugh. Strange sound. Unfiltered. Unprompted by laugh-track algos. Raw, like this bed frame. Loud, sometimes. Booming. No screens flicker. No data streams glow. Just thudding tools, murmuring voices (dialect I barely comprehend), rustling leaves from wind I *feel* on my skin. Disconcerting.
 
-It’s been three days since the… incident. Three days since my entire world simply vanished. Since the Network went dark for me. Since I found myself dragged here. Rescued? Abducted? I’m still not sure what to call it. Charity, I suppose, of a very uncomfortable kind.
+Three days since the Network vanished for me. Since my world ended. Dragged here. Rescue? Abduction? Uncomfortable charity, I suppose.
 
-This is my first attempt at a log entry on my supposedly ‘dead’ datapad. The screen is dark, of course, no power, no connection. But the local journal function, a ridiculously archaic feature I never knew existed, seems to be accessible via some kind of minimal power reserve if I type directly onto the glass. Just text. No voice dictation, no neuro-linker. Primitive.
+First log attempt on this dead datapad. Screen dark. No power, no connection. But the local journal function—a ridiculously archaic feature—accessible. Minimal power reserve. Typing on glass. Primitive. Just text. No voice dictation, no neuro-linker.
 
-It feels less like an entry and more like a question screamed into a void I’m only just beginning to comprehend. A void where my credentials, my access, my *name* as it was, mean nothing.
+Less an entry, more a scream into a void. A void where my credentials, my access, my *name*… mean nothing.
 
-Is this some kind of elaborate punishment? For relying too much on the Network? For not questioning its absolute authority? Was I too… complacent? It seems absurd. Everyone lived that way.
+Punishment? For relying on the Network? Not questioning its authority? Too complacent? Absurd. Everyone lived that way.
 
-Or is this what reality always was, beneath the layers of curated experience and simulated ease the arcologies provided? Did we all just forget how to… exist without the System holding our hands every second of the day? The thought is terrifying.
+Or is *this* reality? Beneath the curated experiences, the simulated ease of the arcologies? Did we all forget how to exist without the System coddling us 24/7? Terrifying thought.
 
-My datapad is useless for anything else, of course. No signal. No connection. Just a dead weight in my pack, a reminder of a life that might as well be a dream. For the first time, my thoughts are entirely my own, unaugmented by information streams, unfiltered by predictive algorithms. And they are… loud. And mostly angry. And confused.
+Datapad otherwise useless. No signal. Dead weight. Reminder of a life that feels like a dream. My thoughts—entirely my own. Unaugmented. Unfiltered. Loud. Mostly angry. Confused.
 
-The ache in my shoulders is a constant, throbbing reminder. This isn’t a simulation. This isn’t a historical reenactment they subject recalcitrant academics to. This is now. And I have no idea what to do. Or how to get back. Or even if ‘back’ still exists for me.
-The Engineer just brought me something resembling food. It smells… earthy. I have to go. Assuming I can even stomach this. End log, I guess.
+Shoulder ache, a constant throb. Not a sim. Not historical reenactment for difficult academics. This is *now*. No idea what to do. How to get back. If ‘back’ even exists for me.
+
+Engineer just brought… ‘food.’ Smells earthy. Assuming I can stomach it.
+End log. I guess.
