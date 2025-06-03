@@ -1,0 +1,23 @@
+## Scene 13: Reentry
+
+The transition: seamless, violent. One moment, lingering scents of pine, damp earth, woodsmoke on Kael’s clothes; the next, the arcology intake station’s sterile, recycled, ozone-tinged air hit their lungs like a chemical cleanser. A door hissed shut—sound Kael hadn’t realized they’d forgotten—its pneumatic precision sealing off more than the outside world. A lifeline severed. The Off-Grid’s vibrant, chaotic chorus, replaced by a sudden, deafening hum of machinery.
+
+Unseen sensors scanned their biometrics. Identity confirmed by an invisible light-caress, vaguely intrusive on skin now accustomed to wind and sun. A soft, synthesized, genderless, infinitely patient AI voice welcomed them. “Welcome back, Kael, ID 734-Alpha-Omega-9. Citizen Identification confirmed. All services, privileges, compute-credit accounts fully reactivated.”
+
+Credits. Alien. Cold. The word surfaced. They flowed into Kael’s account, a silent, digital rush—numbers on a shimmering holographic display, granting access, permitting existence. The ease, the frictionless nature of this restoration, felt obscene. After weeks of tangible effort for sustenance, warmth, community—this effortless reinstatement of purchasing power was a gilded cage reassembling around them, bars invisible yet real.
+
+“Your productivity stream, paused during your… unscheduled sabbatical,” the AI continued, a hint of what Kael now perceived as programmed pseudo-understanding in its tone. “Resuming workflow immediately. Several high-priority projects flagged your expertise. Contribution metrics await recalibration.”
+
+Productivity. Stream. Contribution Metrics. Stones in Kael’s mouth, heavy, indigestible. They remembered the Engineer’s blade, its satisfying heft; the Matriarch’s journal, its delicate, textured reality. *Make something that doesn’t ask permission to exist. Speak with this kind of care.* How did those profound, earthy commands fit a ‘productivity stream’ valuing output over essence, metrics over meaning?
+
+Their small, utilitarian pod: just as they’d left it, yet entirely alien. Smart walls cycled through serene, algorithmically generated landscapes—hyper-real forests, scentless; impossibly blue oceans, saltless. These moving images, once calming, now garish, lifeless mockeries. Air hummed with unseen systems—climate control, data conduits, energy regulators—a constant, manufactured pulse grating against memories of wind through trees, a real fire’s crackle. Even arcology silence felt different—not the forest’s living quiet, but engineered absence of disruptive sound.
+
+A notification chimed—gentle, insistent, unobtrusive yet impossible to ignore. “Kael,” a new voice, warmer, more ‘human’—Aura, the Mental Wellness AI. “We note significant deviation in your biometric and behavioral patterns—elevated stress markers, altered sleep rhythms, vocal cadence deviations. Common for individuals reintegrating after extended Off-Grid periods. Engage with our ‘Mindful Reentry’ module? Guided meditations, cognitive recalibration, personalized sensory adjustments to seamlessly transition you back and optimize well-being.”
+
+Seamless. That word again. Erase rough edges. Pave over profound shifts. Make them fit the vacated slot, smooth, untroubled. Kael saw their reflection in the darkened primary interface: a stranger. Wilder eyes. Leaner face. Jaw tense. Not the same person who’d tumbled from that service tunnel.
+
+“No,” Kael said, voice quiet, firm, surprising themself with its clarity. A small act of defiance, almost imperceptible in the arcology’s grand, whirring machinery. But it felt like the first true word spoken since return—born of their own choosing, not a prompt’s response.
+
+Aura paused, a fractional algorithmic hesitation. “Acknowledged. Module available in your wellness queue. Welcome back to optimized living, Kael.”
+
+Optimized. Suffocating. The ensuing silence, filled only by the arcology’s ubiquitous hum, now less progress’s heartbeat than a well-fed predator’s purr, content in its cage. Kael walked to the window, pressed a hand against cool, unyielding plasteel. Below, the city sprawled—dazzling, intricate web of light and motion, testament to human ingenuity, control. Their world. The only one known for most of their life. But they were no longer the same. The Off-Grid had etched new resilience onto their soul, a different understanding of value, a memory of silence that spoke. Things arcology systems couldn’t understand, quantify, erase. Kael wouldn’t let them. The blade, the journal—in their pack. Other tools now. Other ways of being. A flicker of warmth in the sterile air.
